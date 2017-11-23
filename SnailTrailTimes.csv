@@ -1,0 +1,824 @@
+j
+
+DATE:	02/11/2017	TIME:	15:46:29
+Initialising game took 20.24 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	17.99		UP    to GRASS   and FROG GONE 96.67%			55.41		18.05		EAGLE GOT A FROG
+	43.82		DOWN  to SLIME   and ALIVE     96.67%			22.73		43.99		THAT'S SLIME!
+	71.34		UP    to GRASS   and ALIVE     93.33%			14.01		71.36		
+	64.59		UP    to GRASS   and ALIVE     90.00%			15.48		64.61		
+	20.88		UP    to GRASS   and ALIVE     86.67%			47.86		20.89		
+	20.81		UP    to GRASS   and ALIVE     83.33%			48.04		20.82		
+	21.69		UP    to GRASS   and ALIVE     80.00%			46.08		21.70		
+	16.72		UP    to WALL    and ALIVE     80.00%			59.34		16.85		THAT'S A WALL!
+	62.02		UP    to WALL    and ALIVE     80.00%			16.08		62.19		THAT'S A WALL!
+	45.82		UP    to WALL    and ALIVE     80.00%			21.72		46.04		THAT'S A WALL!
+	28.03		UP    to WALL    and ALIVE     80.00%			35.56		28.12		THAT'S A WALL!
+	45.90		UP    to WALL    and ALIVE     80.00%			21.73		46.02		THAT'S A WALL!
+	65.90		UP    to WALL    and ALIVE     80.00%			15.12		66.13		THAT'S A WALL!
+	58.00		UP    to WALL    and FROG GONE 80.00%			17.12		58.41		EAGLE GOT A FROG
+	30.16		UP    to WALL    and ALIVE     80.00%			32.92		30.38		THAT'S A WALL!
+	19.56		UP    to WALL    and ALIVE     80.00%			51.00		19.61		THAT'S A WALL!
+	35.91		UP    to WALL    and ALIVE     80.00%			27.70		36.11		THAT'S A WALL!
+	51.01		UP    to WALL    and ALIVE     80.00%			19.52		51.24		THAT'S A WALL!
+	48.47		UP    to WALL    and ALIVE     80.00%			20.53		48.70		THAT'S A WALL!
+	40.18		LEFT  to GRASS   and ALIVE     76.67%			24.88		40.19		
+	21.17		LEFT  to WALL    and ALIVE     76.67%			46.81		21.36		THAT'S A WALL!
+	32.39		LEFT  to WALL    and ALIVE     76.67%			30.77		32.50		THAT'S A WALL!
+	56.09		LEFT  to WALL    and ALIVE     76.67%			17.76		56.31		THAT'S A WALL!
+	64.49		DOWN  to GRASS   and ALIVE     73.33%			15.50		64.51		
+	38.89		DOWN  to GRASS   and ALIVE     70.00%			25.70		38.91		
+	18.56		DOWN  to GRASS   and ALIVE     66.67%			53.87		18.56		
+	16.82		DOWN  to GRASS   and ALIVE     63.33%			59.44		16.82		
+	37.12		DOWN  to GRASS   and ALIVE     60.00%			26.93		37.13		
+	25.25		DOWN  to GRASS   and ALIVE     56.67%			39.59		25.26		
+	27.22		DOWN  to GRASS   and ALIVE     53.33%			36.72		27.23		
+	15.30		DOWN  to GRASS   and ALIVE     50.00%			65.33		15.31		
+	15.94		DOWN  to GRASS   and ALIVE     46.67%			62.69		15.95		
+	15.10		DOWN  to GRASS   and ALIVE     43.33%			66.18		15.11		
+	15.98		DOWN  to WORM    and ALIVE     90.00%			62.25		16.07		WORM EATEN
+	56.44		DOWN  to GRASS   and ALIVE     86.67%			17.71		56.47		
+	20.73		DOWN  to GRASS   and ALIVE     83.33%			48.21		20.74		
+	14.64		RIGHT to GRASS   and ALIVE     80.00%			68.26		14.65		
+	35.15		RIGHT to GRASS   and ALIVE     76.67%			28.43		35.17		
+	32.09		RIGHT to GRASS   and ALIVE     73.33%			31.15		32.10		
+	31.88		RIGHT to GRASS   and ALIVE     70.00%			31.36		31.89		
+	32.26		RIGHT to GRASS   and ALIVE     66.67%			30.99		32.27		
+	34.45		RIGHT to GRASS   and ALIVE     63.33%			29.02		34.46		
+	32.25		UP    to GRASS   and ALIVE     60.00%			30.99		32.26		
+	51.10		LEFT  to GRASS   and ALIVE     56.67%			19.56		51.12		
+	39.26		RIGHT to SLIME   and ALIVE     56.67%			25.31		39.51		THAT'S SLIME!
+	32.97		LEFT  to GRASS   and ALIVE     53.33%			30.32		32.98		
+	52.35		UP    to GRASS   and ALIVE     50.00%			19.10		52.37		
+	40.79		RIGHT to GRASS   and ALIVE     46.67%			24.51		40.80		
+	67.71		LEFT  to SLIME   and ALIVE     46.67%			14.73		67.91		THAT'S SLIME!
+	70.53		DOWN  to SLIME   and ALIVE     46.67%			14.13		70.75		THAT'S SLIME!
+	68.48		RIGHT to GRASS   and ALIVE     43.33%			14.60		68.51		
+	38.05		UP    to GRASS   and ALIVE     40.00%			26.28		38.06		
+	20.86		DOWN  to SLIME   and ALIVE     40.00%			47.87		20.89		THAT'S SLIME!
+	21.20		LEFT  to GRASS   and ALIVE     36.67%			47.15		21.21		
+	18.06		RIGHT to SLIME   and ALIVE     36.67%			55.30		18.08		THAT'S SLIME!
+	45.10		UP    to GRASS   and ALIVE     33.33%			22.16		45.12		
+	36.65		DOWN  to SLIME   and ALIVE     33.33%			27.25		36.69		THAT'S SLIME!
+	25.68		LEFT  to GRASS   and ALIVE     30.00%			38.93		25.69		
+	20.98		RIGHT to SLIME   and ALIVE     30.00%			47.62		21.00		THAT'S SLIME!
+	18.64		DOWN  to GRASS   and ALIVE     26.67%			53.64		18.64		
+	18.80		UP    to SLIME   and ALIVE     26.67%			53.12		18.82		THAT'S SLIME!
+	18.34		LEFT  to GRASS   and ALIVE     23.33%			54.52		18.34		
+	18.12		DOWN  to GRASS   and ALIVE     20.00%			55.18		18.12		
+	34.93		RIGHT to SLIME   and ALIVE     20.00%			28.57		35.01		THAT'S SLIME!
+	32.40		UP    to SLIME   and ALIVE     20.00%			30.83		32.44		THAT'S SLIME!
+	32.39		DOWN  to GRASS   and ALIVE     16.67%			30.86		32.40		
+	36.00		DOWN  to GRASS   and ALIVE     13.33%			27.77		36.01		
+	36.85		UP    to SLIME   and ALIVE     13.33%			27.11		36.89		THAT'S SLIME!
+	69.97		LEFT  to GRASS   and ALIVE     10.00%			14.29		69.99		
+	28.02		RIGHT to SLIME   and ALIVE     10.00%			35.62		28.07		THAT'S SLIME!
+	21.87		RIGHT to SLIME   and ALIVE     10.00%			45.67		21.90		THAT'S SLIME!
+	17.91		RIGHT to SLIME   and ALIVE     10.00%			55.77		17.93		THAT'S SLIME!
+	14.89		RIGHT to SLIME   and ALIVE     10.00%			67.10		14.90		THAT'S SLIME!
+	56.71		LEFT  to GRASS   and ALIVE     6.67%			17.63		56.73		
+	27.07		RIGHT to SLIME   and ALIVE     6.67%			36.90		27.10		THAT'S SLIME!
+	20.67		RIGHT to SLIME   and ALIVE     6.67%			48.29		20.71		THAT'S SLIME!
+	20.03		RIGHT to SLIME   and ALIVE     6.67%			49.86		20.06		THAT'S SLIME!
+	54.51		LEFT  to GRASS   and ALIVE     3.33%			18.34		54.53		
+	33.35		RIGHT to DEATH   and LOST GAME -0.00%			29.93		33.42		EXHAUSTED! TIME TO DIE...
+
+DATE:	02/11/2017	TIME:	15:46:41
+Initialising game took 32.22 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	17.78		UP    to GRASS   and ALIVE     96.67%			56.21		17.79		READY TO SLITHER!? PRESS A KEY...
+	16.00		RIGHT to GRASS   and ALIVE     93.33%			62.47		16.01		
+	16.23		UP    to GRASS   and ALIVE     90.00%			61.60		16.23		
+	55.48		DOWN  to SLIME   and ALIVE     90.00%			17.97		55.64		THAT'S SLIME!
+	23.63		UP    to GRASS   and ALIVE     86.67%			42.27		23.66		
+	20.27		RIGHT to GRASS   and ALIVE     83.33%			49.31		20.28		
+	39.14		RIGHT to PELLET  and ALIVE     72.00%			25.39		39.39		PELLET ALERT!
+	20.94		LEFT  to SLIME   and ALIVE     72.00%			47.47		21.06		THAT'S SLIME!
+	20.44		DOWN  to GRASS   and ALIVE     68.67%			48.91		20.45		
+	21.19		LEFT  to GRASS   and ALIVE     65.33%			47.18		21.19		
+	51.61		DOWN  to GRASS   and ALIVE     62.00%			19.37		51.63		
+	25.14		UP    to SLIME   and ALIVE     62.00%			39.70		25.19		THAT'S SLIME!
+	36.22		RIGHT to GRASS   and ALIVE     58.67%			27.59		36.24		
+	24.23		DOWN  to GRASS   and ALIVE     55.33%			41.24		24.25		
+	58.14		DOWN  to GRASS   and ALIVE     52.00%			17.19		58.16		
+	58.40		LEFT  to GRASS   and ALIVE     48.67%			17.12		58.42		
+	75.14		DOWN  to GRASS   and ALIVE     45.33%			13.30		75.16		
+	48.71		UP    to SLIME   and ALIVE     45.33%			20.51		48.76		THAT'S SLIME!
+	56.24		RIGHT to GRASS   and ALIVE     42.00%			17.77		56.27		
+	24.61		LEFT  to SLIME   and ALIVE     42.00%			40.58		24.64		THAT'S SLIME!
+	14.98		DOWN  to WALL    and ALIVE     42.00%			66.66		15.00		THAT'S A WALL!
+	56.03		UP    to SLIME   and ALIVE     42.00%			17.77		56.28		THAT'S SLIME!
+	34.79		DOWN  to WALL    and ALIVE     42.00%			28.68		34.87		THAT'S A WALL!
+	27.09		LEFT  to SLIME   and ALIVE     42.00%			36.87		27.12		THAT'S SLIME!
+	23.76		RIGHT to GRASS   and LOST GAME 38.67%			42.00		23.81		FROG GOT YOU!
+
+DATE:	02/11/2017	TIME:	15:46:45
+Initialising game took 22.52 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	26.83		LEFT  to GRASS   and ALIVE     96.67%			37.25		26.84		READY TO SLITHER!? PRESS A KEY...
+	24.16		RIGHT to SLIME   and ALIVE     96.67%			41.34		24.19		THAT'S SLIME!
+	23.00		DOWN  to GRASS   and ALIVE     93.33%			43.47		23.01		
+	14.27		UP    to SLIME   and ALIVE     93.33%			69.97		14.29		THAT'S SLIME!
+	14.00		LEFT  to GRASS   and ALIVE     90.00%			71.42		14.00		
+	14.02		UP    to GRASS   and ALIVE     86.67%			71.32		14.02		
+	15.03		DOWN  to SLIME   and ALIVE     86.67%			66.45		15.05		THAT'S SLIME!
+	21.28		RIGHT to SLIME   and ALIVE     86.67%			46.95		21.30		THAT'S SLIME!
+	14.24		UP    to GRASS   and ALIVE     83.33%			70.18		14.25		
+	14.36		RIGHT to GRASS   and ALIVE     80.00%			69.61		14.37		
+	14.09		UP    to GRASS   and ALIVE     76.67%			70.95		14.10		
+	14.27		DOWN  to SLIME   and ALIVE     76.67%			69.98		14.29		THAT'S SLIME!
+	27.99		LEFT  to GRASS   and ALIVE     73.33%			35.72		28.00		
+	32.44		RIGHT to SLIME   and ALIVE     73.33%			30.79		32.48		THAT'S SLIME!
+	25.89		DOWN  to SLIME   and ALIVE     73.33%			38.58		25.92		THAT'S SLIME!
+	26.57		UP    to GRASS   and LOST GAME 70.00%			37.57		26.61		FROG GOT YOU!
+
+DATE:	02/11/2017	TIME:	15:46:46
+Initialising game took 13.68 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	14.90		DOWN  to GRASS   and ALIVE     96.67%			67.10		14.90		READY TO SLITHER!? PRESS A KEY...
+	14.10		RIGHT to GRASS   and ALIVE     93.33%			70.91		14.10		
+	15.10		DOWN  to GRASS   and ALIVE     90.00%			66.22		15.10		
+	16.31		UP    to SLIME   and ALIVE     90.00%			61.25		16.33		THAT'S SLIME!
+	14.42		RIGHT to GRASS   and ALIVE     86.67%			69.34		14.42		
+	16.33		UP    to GRASS   and ALIVE     83.33%			61.22		16.34		
+	14.44		DOWN  to SLIME   and ALIVE     83.33%			69.15		14.46		THAT'S SLIME!
+	14.48		LEFT  to SLIME   and ALIVE     83.33%			68.99		14.49		THAT'S SLIME!
+	14.81		DOWN  to SLIME   and ALIVE     83.33%			67.45		14.83		THAT'S SLIME!
+	38.82		RIGHT to DEATH   and LOST GAME 80.00%			25.50		39.21		OH NO! A FROG!
+
+DATE:	02/11/2017	TIME:	15:46:48
+Initialising game took 18.53 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	19.98		DOWN  to GRASS   and FROG GONE 96.67%			49.98		20.01		EAGLE GOT A FROG
+	22.35		RIGHT to GRASS   and ALIVE     93.33%			44.74		22.35		
+	19.36		UP    to GRASS   and ALIVE     90.00%			51.64		19.36		
+	15.16		DOWN  to SLIME   and ALIVE     90.00%			65.89		15.18		THAT'S SLIME!
+	14.55		LEFT  to SLIME   and ALIVE     90.00%			68.56		14.59		THAT'S SLIME!
+	14.16		RIGHT to GRASS   and ALIVE     86.67%			70.60		14.16		
+	14.21		UP    to GRASS   and ALIVE     83.33%			70.36		14.21		
+	14.34		DOWN  to SLIME   and ALIVE     83.33%			69.63		14.36		THAT'S SLIME!
+	14.40		LEFT  to GRASS   and FROG GONE 80.00%			69.34		14.42		EAGLE GOT A FROG
+	14.40		RIGHT to SLIME   and ALIVE     80.00%			69.34		14.42		THAT'S SLIME!
+	14.69		DOWN  to SLIME   and ALIVE     80.00%			68.00		14.71		THAT'S SLIME!
+	14.35		RIGHT to SLIME   and ALIVE     80.00%			69.61		14.37		THAT'S SLIME!
+	14.28		UP    to GRASS   and ALIVE     76.67%			70.03		14.28		
+	15.32		RIGHT to GRASS   and ALIVE     73.33%			65.24		15.33		
+	19.19		UP    to GRASS   and ALIVE     70.00%			52.10		19.20		
+	26.91		DOWN  to SLIME   and ALIVE     70.00%			37.08		26.97		THAT'S SLIME!
+	14.31		LEFT  to GRASS   and ALIVE     66.67%			69.85		14.32		
+	14.38		DOWN  to SLIME   and ALIVE     66.67%			69.48		14.39		THAT'S SLIME!
+	14.67		LEFT  to PELLET  and ALIVE     57.00%			68.09		14.69		PELLET ALERT!
+	14.15		DOWN  to GRASS   and ALIVE     53.67%			70.67		14.15		
+	14.23		UP    to SLIME   and ALIVE     53.67%			70.21		14.24		THAT'S SLIME!
+	16.12		DOWN  to GRASS   and ALIVE     50.33%			62.00		16.13		
+	17.93		UP    to SLIME   and ALIVE     50.33%			55.70		17.95		THAT'S SLIME!
+	18.41		DOWN  to GRASS   and ALIVE     47.00%			54.31		18.41		
+	14.34		UP    to SLIME   and ALIVE     47.00%			69.66		14.36		THAT'S SLIME!
+	14.38		DOWN  to GRASS   and ALIVE     43.67%			69.54		14.38		
+	14.19		DOWN  to GRASS   and ALIVE     40.33%			70.44		14.20		
+	14.19		DOWN  to GRASS   and ALIVE     37.00%			70.47		14.19		
+	14.20		DOWN  to GRASS   and ALIVE     33.67%			70.39		14.21		
+	14.19		DOWN  to GRASS   and ALIVE     30.33%			70.43		14.20		
+	21.08		UP    to SLIME   and ALIVE     30.33%			47.27		21.16		THAT'S SLIME!
+	14.31		RIGHT to GRASS   and ALIVE     27.00%			69.88		14.31		
+	14.46		DOWN  to WALL    and ALIVE     27.00%			69.08		14.48		THAT'S A WALL!
+	14.31		UP    to GRASS   and ALIVE     23.67%			69.86		14.31		
+	14.26		RIGHT to GRASS   and ALIVE     20.33%			70.11		14.26		
+	14.26		RIGHT to GRASS   and ALIVE     17.00%			70.09		14.27		
+	29.16		UP    to GRASS   and ALIVE     13.67%			34.28		29.17		
+	35.31		RIGHT to GRASS   and ALIVE     10.33%			28.31		35.33		
+	16.93		UP    to GRASS   and ALIVE     7.00%			59.02		16.94		
+	39.75		DOWN  to SLIME   and ALIVE     7.00%			25.04		39.94		THAT'S SLIME!
+	36.92		UP    to GRASS   and ALIVE     3.67%			27.07		36.94		
+	51.20		DOWN  to SLIME   and ALIVE     3.67%			19.44		51.44		THAT'S SLIME!
+	21.15		UP    to GRASS   and ALIVE     0.33%			47.26		21.16		
+	20.28		DOWN  to DEATH   and LOST GAME -3.00%			49.20		20.32		EXHAUSTED! TIME TO DIE...
+
+DATE:	02/11/2017	TIME:	15:46:53
+Initialising game took 17.11 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	15.56		UP    to GRASS   and ALIVE     96.67%			64.25		15.56		READY TO SLITHER!? PRESS A KEY...
+	14.34		DOWN  to SLIME   and ALIVE     96.67%			69.67		14.35		THAT'S SLIME!
+	14.21		RIGHT to GRASS   and ALIVE     93.33%			70.37		14.21		
+	14.17		UP    to GRASS   and ALIVE     90.00%			70.56		14.17		
+	24.02		DOWN  to SLIME   and ALIVE     90.00%			41.51		24.09		THAT'S SLIME!
+	18.33		UP    to DEATH   and LOST GAME 86.67%			54.46		18.36		OH NO! A FROG!
+
+DATE:	02/11/2017	TIME:	15:46:54
+Initialising game took 28.80 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	30.29		UP    to GRASS   and ALIVE     96.67%			33.00		30.30		READY TO SLITHER!? PRESS A KEY...
+	32.15		LEFT  to GRASS   and ALIVE     93.33%			31.09		32.16		
+	26.02		DOWN  to PELLET  and ALIVE     81.00%			38.38		26.05		PELLET ALERT!
+	25.57		LEFT  to GRASS   and ALIVE     77.67%			39.09		25.58		
+	28.29		DOWN  to GRASS   and ALIVE     74.33%			35.33		28.30		
+	24.80		LEFT  to GRASS   and ALIVE     71.00%			40.32		24.80		
+	24.90		DOWN  to GRASS   and ALIVE     67.67%			40.14		24.91		
+	47.99		DOWN  to GRASS   and ALIVE     64.33%			20.83		48.02		
+	18.60		UP    to SLIME   and ALIVE     64.33%			53.64		18.64		THAT'S SLIME!
+	56.77		DOWN  to GRASS   and ALIVE     61.00%			17.61		56.80		
+	17.54		UP    to SLIME   and ALIVE     61.00%			56.83		17.60		THAT'S SLIME!
+	48.06		DOWN  to GRASS   and ALIVE     57.67%			20.80		48.08		
+	26.47		RIGHT to GRASS   and ALIVE     54.33%			37.76		26.48		
+	25.43		UP    to GRASS   and ALIVE     51.00%			39.31		25.44		
+	28.41		DOWN  to SLIME   and ALIVE     51.00%			35.17		28.44		THAT'S SLIME!
+	58.67		UP    to GRASS   and ALIVE     47.67%			17.04		58.69		
+	20.89		RIGHT to GRASS   and ALIVE     44.33%			47.86		20.89		
+	18.21		DOWN  to GRASS   and ALIVE     41.00%			54.90		18.22		
+	76.34		UP    to SLIME   and ALIVE     41.00%			13.06		76.56		THAT'S SLIME!
+	73.43		DOWN  to GRASS   and ALIVE     37.67%			13.61		73.46		
+	16.53		UP    to SLIME   and ALIVE     37.67%			60.41		16.55		THAT'S SLIME!
+	38.17		DOWN  to GRASS   and ALIVE     34.33%			26.18		38.19		
+	16.69		UP    to SLIME   and ALIVE     34.33%			59.73		16.74		THAT'S SLIME!
+	19.58		RIGHT to GRASS   and ALIVE     31.00%			51.05		19.59		
+	55.62		LEFT  to SLIME   and FROG GONE 31.00%			17.91		55.83		EAGLE GOT A FROG
+	17.27		LEFT  to SLIME   and ALIVE     31.00%			57.33		17.44		THAT'S SLIME!
+	16.00		DOWN  to GRASS   and ALIVE     27.67%			62.50		16.00		
+	16.10		UP    to SLIME   and ALIVE     27.67%			62.04		16.12		THAT'S SLIME!
+	15.96		DOWN  to GRASS   and ALIVE     24.33%			62.63		15.97		
+	34.74		RIGHT to GRASS   and LOST GAME 21.00%			28.53		35.05		FROG GOT YOU!
+
+DATE:	02/11/2017	TIME:	15:46:58
+Initialising game took 15.40 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	35.10		LEFT  to GRASS   and ALIVE     96.67%			28.48		35.12		READY TO SLITHER!? PRESS A KEY...
+	32.98		RIGHT to SLIME   and ALIVE     96.67%			30.28		33.02		THAT'S SLIME!
+	30.31		UP    to GRASS   and ALIVE     93.33%			32.99		30.32		
+	21.37		DOWN  to SLIME   and ALIVE     93.33%			46.74		21.40		THAT'S SLIME!
+	21.10		RIGHT to GRASS   and LOST GAME 90.00%			47.29		21.15		FROG GOT YOU!
+
+DATE:	02/11/2017	TIME:	15:46:59
+Initialising game took 19.10 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	16.40		RIGHT to GRASS   and ALIVE     96.67%			60.94		16.41		READY TO SLITHER!? PRESS A KEY...
+	14.38		LEFT  to SLIME   and ALIVE     96.67%			69.44		14.40		THAT'S SLIME!
+	14.14		RIGHT to GRASS   and ALIVE     93.33%			70.72		14.14		
+	15.19		DOWN  to GRASS   and FROG GONE 90.00%			65.74		15.21		EAGLE GOT A FROG
+	15.65		LEFT  to GRASS   and ALIVE     86.67%			63.86		15.66		
+	14.38		LEFT  to GRASS   and LOST GAME 83.33%			69.41		14.41		FROG GOT YOU!
+
+DATE:	02/11/2017	TIME:	15:47:00
+Initialising game took 19.10 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	21.50		UP    to GRASS   and ALIVE     96.67%			46.48		21.51		READY TO SLITHER!? PRESS A KEY...
+	20.05		UP    to GRASS   and ALIVE     93.33%			49.85		20.06		
+	19.92		RIGHT to GRASS   and ALIVE     90.00%			50.19		19.93		
+	19.48		DOWN  to GRASS   and ALIVE     86.67%			51.32		19.49		
+	22.18		UP    to SLIME   and ALIVE     86.67%			45.03		22.21		THAT'S SLIME!
+	20.82		DOWN  to GRASS   and ALIVE     83.33%			48.01		20.83		
+	69.89		UP    to SLIME   and ALIVE     83.33%			14.28		70.05		THAT'S SLIME!
+	27.71		DOWN  to GRASS   and ALIVE     80.00%			36.07		27.72		
+	57.61		UP    to SLIME   and ALIVE     80.00%			17.29		57.84		THAT'S SLIME!
+	44.10		RIGHT to GRASS   and ALIVE     76.67%			22.67		44.12		
+	28.13		LEFT  to SLIME   and ALIVE     76.67%			35.48		28.19		THAT'S SLIME!
+	34.93		UP    to GRASS   and FROG GONE 73.33%			28.52		35.07		EAGLE GOT A FROG
+	18.07		DOWN  to SLIME   and ALIVE     73.33%			55.26		18.10		THAT'S SLIME!
+	14.21		RIGHT to GRASS   and ALIVE     70.00%			70.36		14.21		
+	31.55		UP    to GRASS   and FROG GONE 66.67%			31.50		31.74		EAGLE GOT A FROG
+	28.72		DOWN  to SLIME   and ALIVE     66.67%			34.78		28.76		THAT'S SLIME!
+	35.33		LEFT  to GRASS   and ALIVE     63.33%			28.30		35.34		
+	17.41		RIGHT to SLIME   and ALIVE     63.33%			57.37		17.43		THAT'S SLIME!
+	26.52		UP    to GRASS   and ALIVE     60.00%			37.68		26.54		
+	19.91		UP    to PELLET  and ALIVE     51.00%			50.16		19.94		PELLET ALERT!
+	14.63		DOWN  to SLIME   and ALIVE     51.00%			68.29		14.64		THAT'S SLIME!
+	14.24		RIGHT to GRASS   and ALIVE     47.67%			70.22		14.24		
+	14.30		DOWN  to GRASS   and ALIVE     44.33%			69.92		14.30		
+	28.86		RIGHT to GRASS   and ALIVE     41.00%			34.63		28.87		
+	25.43		LEFT  to SLIME   and ALIVE     41.00%			39.26		25.47		THAT'S SLIME!
+	16.25		LEFT  to SLIME   and ALIVE     41.00%			61.45		16.27		THAT'S SLIME!
+	44.88		DOWN  to GRASS   and ALIVE     37.67%			22.27		44.90		
+	33.44		LEFT  to SLIME   and ALIVE     37.67%			29.87		33.48		THAT'S SLIME!
+	31.90		DOWN  to GRASS   and ALIVE     34.33%			31.33		31.91		
+	49.79		LEFT  to SLIME   and ALIVE     34.33%			19.99		50.02		THAT'S SLIME!
+	29.20		DOWN  to GRASS   and ALIVE     31.00%			34.23		29.21		
+	73.05		UP    to SLIME   and ALIVE     31.00%			13.65		73.27		THAT'S SLIME!
+	23.87		DOWN  to GRASS   and ALIVE     27.67%			41.87		23.88		
+	78.38		RIGHT to GRASS   and ALIVE     24.33%			12.76		78.40		
+	53.73		RIGHT to GRASS   and ALIVE     21.00%			18.61		53.74		
+	42.96		UP    to GRASS   and ALIVE     17.67%			23.26		42.98		
+	15.32		UP    to GRASS   and ALIVE     14.33%			65.23		15.33		
+	15.14		DOWN  to SLIME   and ALIVE     14.33%			65.35		15.30		THAT'S SLIME!
+	34.60		LEFT  to GRASS   and ALIVE     11.00%			28.89		34.61		
+	14.74		DOWN  to GRASS   and ALIVE     7.67%			67.80		14.75		
+	52.83		UP    to SLIME   and ALIVE     7.67%			18.85		53.05		THAT'S SLIME!
+	68.90		RIGHT to SLIME   and ALIVE     7.67%			14.48		69.06		THAT'S SLIME!
+	59.16		DOWN  to SLIME   and ALIVE     7.67%			16.84		59.38		THAT'S SLIME!
+	35.12		UP    to SLIME   and ALIVE     7.67%			28.44		35.16		THAT'S SLIME!
+	17.18		RIGHT to SLIME   and ALIVE     7.67%			58.15		17.20		THAT'S SLIME!
+	29.25		UP    to SLIME   and ALIVE     7.67%			34.06		29.36		THAT'S SLIME!
+	29.90		UP    to SLIME   and ALIVE     7.67%			33.41		29.93		THAT'S SLIME!
+	28.52		UP    to SLIME   and ALIVE     7.67%			34.91		28.64		THAT'S SLIME!
+	37.05		UP    to SLIME   and ALIVE     7.67%			26.89		37.20		THAT'S SLIME!
+	33.89		UP    to SLIME   and ALIVE     7.67%			29.39		34.02		THAT'S SLIME!
+	16.24		DOWN  to SLIME   and ALIVE     7.67%			60.95		16.41		THAT'S SLIME!
+	49.59		DOWN  to SLIME   and ALIVE     7.67%			20.07		49.81		THAT'S SLIME!
+	38.31		DOWN  to SLIME   and ALIVE     7.67%			25.95		38.54		THAT'S SLIME!
+	53.18		DOWN  to SLIME   and ALIVE     7.67%			18.73		53.40		THAT'S SLIME!
+	16.34		RIGHT to SLIME   and ALIVE     7.67%			61.13		16.36		THAT'S SLIME!
+	37.46		LEFT  to GRASS   and ALIVE     4.33%			26.68		37.48		
+	16.96		LEFT  to GRASS   and ALIVE     1.00%			58.95		16.96		
+	14.49		DOWN  to DEATH   and LOST GAME -2.33%			68.87		14.52		EXHAUSTED! TIME TO DIE...
+
+DATE:	02/11/2017	TIME:	15:47:08
+Initialising game took 27.08 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	26.12		DOWN  to GRASS   and ALIVE     96.67%			38.27		26.13		READY TO SLITHER!? PRESS A KEY...
+	18.49		UP    to SLIME   and ALIVE     96.67%			54.01		18.52		THAT'S SLIME!
+	31.83		DOWN  to GRASS   and FROG GONE 93.33%			31.29		31.96		EAGLE GOT A FROG
+	26.38		UP    to SLIME   and ALIVE     93.33%			37.86		26.41		THAT'S SLIME!
+	56.97		DOWN  to GRASS   and ALIVE     90.00%			17.55		57.00		
+	36.03		UP    to SLIME   and ALIVE     90.00%			27.73		36.07		THAT'S SLIME!
+	21.08		DOWN  to GRASS   and ALIVE     86.67%			47.41		21.09		
+	54.03		UP    to SLIME   and ALIVE     86.67%			18.43		54.25		THAT'S SLIME!
+	20.27		DOWN  to GRASS   and ALIVE     83.33%			49.32		20.27		
+	59.13		UP    to SLIME   and ALIVE     83.33%			16.85		59.36		THAT'S SLIME!
+	22.13		DOWN  to GRASS   and ALIVE     80.00%			45.16		22.14		
+	17.83		RIGHT to GRASS   and ALIVE     76.67%			56.07		17.84		
+	83.62		RIGHT to GRASS   and ALIVE     73.33%			11.96		83.64		
+	21.19		DOWN  to PELLET  and ALIVE     63.00%			47.08		21.24		PELLET ALERT!
+	31.75		DOWN  to GRASS   and ALIVE     59.67%			31.49		31.76		
+	30.51		LEFT  to GRASS   and LOST GAME 56.33%			32.59		30.68		FROG GOT YOU!
+
+DATE:	02/11/2017	TIME:	15:47:10
+Initialising game took 62.44 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	18.74		DOWN  to GRASS   and ALIVE     96.67%			53.33		18.75		READY TO SLITHER!? PRESS A KEY...
+	16.01		LEFT  to WORM    and LOST GAME 100.00%			62.24		16.07		FROG GOT YOU!
+
+DATE:	02/11/2017	TIME:	15:47:11
+Initialising game took 35.35 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	28.94		LEFT  to GRASS   and ALIVE     96.67%			34.54		28.95		READY TO SLITHER!? PRESS A KEY...
+	20.49		LEFT  to GRASS   and ALIVE     93.33%			48.80		20.49		
+	22.44		LEFT  to GRASS   and LOST GAME 90.00%			44.47		22.49		FROG GOT YOU!
+
+DATE:	02/11/2017	TIME:	15:47:11
+Initialising game took 17.39 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	16.20		UP    to LETTUCE and ALIVE     100.00%			61.64		16.22		LETTUCE EATEN
+	51.44		UP    to GRASS   and ALIVE     96.67%			19.43		51.46		
+	20.00		RIGHT to GRASS   and ALIVE     93.33%			49.97		20.01		
+	20.29		UP    to GRASS   and FROG GONE 90.00%			49.21		20.32		EAGLE GOT A FROG
+	60.36		LEFT  to GRASS   and ALIVE     86.67%			16.56		60.38		
+	38.54		LEFT  to GRASS   and ALIVE     83.33%			25.93		38.56		
+	46.80		LEFT  to GRASS   and ALIVE     80.00%			21.36		46.82		
+	41.32		LEFT  to GRASS   and ALIVE     76.67%			24.19		41.34		
+	20.24		LEFT  to GRASS   and ALIVE     73.33%			49.38		20.25		
+	70.62		LEFT  to GRASS   and ALIVE     70.00%			14.15		70.65		
+	71.11		DOWN  to GRASS   and ALIVE     66.67%			14.06		71.14		
+	62.42		RIGHT to GRASS   and ALIVE     63.33%			16.02		62.44		
+	54.26		UP    to SLIME   and ALIVE     63.33%			18.37		54.44		THAT'S SLIME!
+	68.99		RIGHT to GRASS   and ALIVE     60.00%			14.49		69.01		
+	29.69		DOWN  to GRASS   and ALIVE     56.67%			33.67		29.70		
+	20.22		UP    to SLIME   and ALIVE     56.67%			49.40		20.24		THAT'S SLIME!
+	40.04		DOWN  to DEATH   and LOST GAME 53.33%			24.81		40.31		OH NO! A FROG!
+
+DATE:	02/11/2017	TIME:	15:47:15
+Initialising game took 20.81 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	24.54		LEFT  to GRASS   and ALIVE     96.67%			40.74		24.55		READY TO SLITHER!? PRESS A KEY...
+	26.57		RIGHT to SLIME   and ALIVE     96.67%			37.59		26.60		THAT'S SLIME!
+	21.99		DOWN  to WALL    and ALIVE     96.67%			45.42		22.02		THAT'S A WALL!
+	21.42		LEFT  to GRASS   and ALIVE     93.33%			46.68		21.42		
+	59.21		RIGHT to SLIME   and ALIVE     93.33%			16.83		59.43		THAT'S SLIME!
+	34.20		LEFT  to GRASS   and LOST GAME 90.00%			29.18		34.27		FROG GOT YOU!
+
+DATE:	02/11/2017	TIME:	15:47:15
+Initialising game took 16.25 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	15.59		DOWN  to GRASS   and FROG GONE 96.67%			64.06		15.61		EAGLE GOT A FROG
+	14.21		LEFT  to GRASS   and ALIVE     93.33%			70.33		14.22		
+	44.39		LEFT  to GRASS   and ALIVE     90.00%			22.51		44.42		
+	28.19		DOWN  to GRASS   and ALIVE     86.67%			35.46		28.20		
+	32.52		UP    to SLIME   and ALIVE     86.67%			30.72		32.55		THAT'S SLIME!
+	15.46		UP    to SLIME   and ALIVE     86.67%			64.60		15.48		THAT'S SLIME!
+	78.89		UP    to SLIME   and ALIVE     86.67%			12.64		79.12		THAT'S SLIME!
+	28.74		LEFT  to GRASS   and ALIVE     83.33%			34.79		28.75		
+	39.15		LEFT  to GRASS   and ALIVE     80.00%			25.54		39.16		
+	58.00		LEFT  to GRASS   and ALIVE     76.67%			17.23		58.02		
+	26.19		LEFT  to GRASS   and ALIVE     73.33%			38.17		26.20		
+	28.08		LEFT  to GRASS   and ALIVE     70.00%			35.60		28.09		
+	57.08		LEFT  to GRASS   and ALIVE     66.67%			17.51		57.10		
+	66.49		LEFT  to GRASS   and ALIVE     63.33%			15.03		66.52		
+	53.48		LEFT  to GRASS   and ALIVE     60.00%			18.69		53.50		
+	35.66		DOWN  to PELLET  and LOST GAME 51.00%			27.93		35.80		FROG GOT YOU!
+
+DATE:	02/11/2017	TIME:	15:47:19
+Initialising game took 27.08 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	37.60		LEFT  to GRASS   and ALIVE     96.67%			26.59		37.61		READY TO SLITHER!? PRESS A KEY...
+	44.30		UP    to GRASS   and FROG GONE 93.33%			22.46		44.53		EAGLE GOT A FROG
+	64.51		UP    to WALL    and ALIVE     93.33%			15.45		64.73		THAT'S A WALL!
+	51.52		DOWN  to SLIME   and ALIVE     93.33%			19.33		51.74		THAT'S SLIME!
+	15.26		UP    to WALL    and ALIVE     93.33%			65.23		15.33		THAT'S A WALL!
+	57.77		DOWN  to SLIME   and ALIVE     93.33%			17.24		58.00		THAT'S SLIME!
+	17.24		UP    to WALL    and ALIVE     93.33%			56.38		17.74		THAT'S A WALL!
+	63.01		DOWN  to SLIME   and ALIVE     93.33%			15.81		63.24		THAT'S SLIME!
+	35.61		LEFT  to GRASS   and LOST GAME 90.00%			27.95		35.77		FROG GOT YOU!
+
+DATE:	02/11/2017	TIME:	15:47:21
+Initialising game took 19.39 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	69.35		DOWN  to GRASS   and ALIVE     96.67%			14.41		69.38		READY TO SLITHER!? PRESS A KEY...
+	22.63		LEFT  to GRASS   and ALIVE     93.33%			44.16		22.64		
+	47.30		DOWN  to GRASS   and ALIVE     90.00%			21.13		47.32		
+	14.24		LEFT  to GRASS   and ALIVE     86.67%			70.19		14.25		
+	38.47		LEFT  to WORM    and FROG GONE 100.00%			25.83		38.72		EAGLE GOT A FROG
+	14.06		DOWN  to GRASS   and ALIVE     96.67%			71.11		14.06		
+	52.73		LEFT  to GRASS   and ALIVE     93.33%			18.95		52.76		
+	38.37		DOWN  to GRASS   and ALIVE     90.00%			26.05		38.38		
+	42.83		LEFT  to WALL    and ALIVE     90.00%			23.32		42.89		THAT'S A WALL!
+	49.79		LEFT  to WALL    and ALIVE     90.00%			20.02		49.95		THAT'S A WALL!
+	41.01		DOWN  to GRASS   and ALIVE     86.67%			24.37		41.04		
+	14.09		RIGHT to GRASS   and ALIVE     83.33%			70.92		14.10		
+	22.57		UP    to GRASS   and ALIVE     80.00%			44.28		22.58		
+	50.74		DOWN  to SLIME   and ALIVE     80.00%			19.67		50.85		THAT'S SLIME!
+	47.53		LEFT  to SLIME   and ALIVE     80.00%			20.94		47.75		THAT'S SLIME!
+	41.23		LEFT  to SLIME   and ALIVE     80.00%			24.12		41.45		THAT'S SLIME!
+	16.35		RIGHT to PELLET  and ALIVE     69.00%			61.11		16.36		PELLET ALERT!
+	16.28		DOWN  to GRASS   and ALIVE     65.67%			61.40		16.29		
+	57.12		LEFT  to SLIME   and ALIVE     65.67%			17.44		57.34		THAT'S SLIME!
+	32.61		DOWN  to GRASS   and ALIVE     62.33%			30.65		32.62		
+	18.41		LEFT  to GRASS   and ALIVE     59.00%			54.29		18.42		
+	17.84		LEFT  to DEATH   and LOST GAME 55.67%			55.61		17.98		OH NO! A FROG!
+
+DATE:	02/11/2017	TIME:	15:47:24
+Initialising game took 33.07 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	21.82		DOWN  to GRASS   and ALIVE     96.67%			45.80		21.83		READY TO SLITHER!? PRESS A KEY...
+	16.35		LEFT  to LETTUCE and ALIVE     100.00%			61.00		16.39		LETTUCE EATEN
+	34.79		DOWN  to GRASS   and ALIVE     96.67%			28.73		34.80		
+	54.51		LEFT  to GRASS   and ALIVE     93.33%			18.33		54.55		
+	47.14		DOWN  to GRASS   and ALIVE     90.00%			21.20		47.17		
+	29.34		LEFT  to PELLET  and ALIVE     78.00%			33.84		29.55		PELLET ALERT!
+	46.94		UP    to DEATH   and LOST GAME 74.67%			21.17		47.24		OH NO! A FROG!
+
+DATE:	02/11/2017	TIME:	15:47:26
+Initialising game took 21.38 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	20.85		UP    to GRASS   and ALIVE     96.67%			47.94		20.86		READY TO SLITHER!? PRESS A KEY...
+	19.75		RIGHT to GRASS   and ALIVE     93.33%			50.62		19.75		
+	19.85		DOWN  to GRASS   and ALIVE     90.00%			50.36		19.86		
+	20.43		UP    to SLIME   and ALIVE     90.00%			48.89		20.46		THAT'S SLIME!
+	39.06		RIGHT to GRASS   and ALIVE     86.67%			25.58		39.09		
+	23.69		UP    to GRASS   and ALIVE     83.33%			42.19		23.70		
+	28.82		RIGHT to GRASS   and ALIVE     80.00%			34.69		28.83		
+	23.31		UP    to GRASS   and ALIVE     76.67%			42.89		23.32		
+	71.77		RIGHT to GRASS   and ALIVE     73.33%			13.93		71.80		
+	60.67		UP    to GRASS   and ALIVE     70.00%			16.48		60.69		
+	48.93		UP    to GRASS   and ALIVE     66.67%			20.43		48.96		
+	59.60		DOWN  to SLIME   and ALIVE     66.67%			16.72		59.82		THAT'S SLIME!
+	55.24		UP    to DEATH   and LOST GAME 63.33%			17.99		55.57		OH NO! A FROG!
+
+DATE:	02/11/2017	TIME:	15:47:27
+Initialising game took 15.40 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	22.66		DOWN  to GRASS   and ALIVE     96.67%			44.11		22.67		READY TO SLITHER!? PRESS A KEY...
+	25.88		LEFT  to GRASS   and LOST GAME 93.33%			38.32		26.09		FROG GOT YOU!
+
+DATE:	02/11/2017	TIME:	15:47:28
+Initialising game took 31.08 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	26.02		RIGHT to GRASS   and LOST GAME 96.67%			38.32		26.09		FROG GOT YOU!
+
+DATE:	02/11/2017	TIME:	15:47:28
+Initialising game took 36.49 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	23.97		UP    to WALL    and ALIVE     100.00%			41.62		24.03		THAT'S A WALL!
+	51.22		DOWN  to GRASS   and ALIVE     96.67%			19.52		51.24		
+	15.96		UP    to SLIME   and ALIVE     96.67%			62.58		15.98		THAT'S SLIME!
+	39.20		DOWN  to GRASS   and ALIVE     93.33%			25.50		39.22		
+	21.44		UP    to SLIME   and ALIVE     93.33%			46.57		21.47		THAT'S SLIME!
+	57.11		DOWN  to PELLET  and ALIVE     81.00%			17.44		57.34		PELLET ALERT!
+	41.63		UP    to SLIME   and ALIVE     81.00%			23.90		41.84		THAT'S SLIME!
+	36.40		DOWN  to GRASS   and ALIVE     77.67%			27.47		36.41		
+	29.65		LEFT  to GRASS   and ALIVE     74.33%			33.72		29.66		
+	56.02		RIGHT to SLIME   and ALIVE     74.33%			17.79		56.21		THAT'S SLIME!
+	37.50		UP    to GRASS   and ALIVE     71.00%			26.65		37.53		
+	15.42		RIGHT to SLIME   and ALIVE     71.00%			64.16		15.59		THAT'S SLIME!
+	14.76		DOWN  to SLIME   and FROG GONE 71.00%			67.61		14.79		EAGLE GOT A FROG
+	14.94		UP    to GRASS   and ALIVE     67.67%			66.88		14.95		
+	14.35		DOWN  to SLIME   and ALIVE     67.67%			69.56		14.38		THAT'S SLIME!
+	14.41		UP    to GRASS   and FROG GONE 64.33%			69.32		14.43		EAGLE GOT A FROG
+	14.50		DOWN  to SLIME   and ALIVE     64.33%			68.91		14.51		THAT'S SLIME!
+	28.92		RIGHT to SLIME   and ALIVE     64.33%			34.45		29.03		THAT'S SLIME!
+	28.40		UP    to GRASS   and ALIVE     61.00%			35.20		28.41		
+	21.59		UP    to WALL    and ALIVE     61.00%			46.27		21.61		THAT'S A WALL!
+	21.62		RIGHT to SLIME   and ALIVE     61.00%			46.19		21.65		THAT'S SLIME!
+	21.70		UP    to WALL    and ALIVE     61.00%			45.87		21.80		THAT'S A WALL!
+	18.21		RIGHT to GRASS   and ALIVE     57.67%			54.89		18.22		
+	18.47		UP    to WALL    and ALIVE     57.67%			54.09		18.49		THAT'S A WALL!
+	18.29		DOWN  to GRASS   and ALIVE     54.33%			54.65		18.30		
+	41.29		LEFT  to SLIME   and ALIVE     54.33%			24.13		41.44		THAT'S SLIME!
+	22.59		DOWN  to GRASS   and ALIVE     51.00%			44.25		22.60		
+	17.29		LEFT  to SLIME   and ALIVE     51.00%			57.76		17.31		THAT'S SLIME!
+	14.17		DOWN  to GRASS   and ALIVE     47.67%			70.54		14.18		
+	26.67		LEFT  to SLIME   and ALIVE     47.67%			37.26		26.84		THAT'S SLIME!
+	41.45		DOWN  to GRASS   and ALIVE     44.33%			24.12		41.46		
+	67.92		DOWN  to GRASS   and ALIVE     41.00%			14.72		67.95		
+	58.68		DOWN  to GRASS   and ALIVE     37.67%			17.04		58.69		
+	42.51		DOWN  to GRASS   and ALIVE     34.33%			23.52		42.52		
+	43.46		DOWN  to GRASS   and ALIVE     31.00%			23.00		43.47		
+	38.00		DOWN  to PELLET  and ALIVE     24.90%			26.27		38.07		PELLET ALERT!
+	48.91		DOWN  to GRASS   and ALIVE     21.57%			20.44		48.93		
+	14.63		DOWN  to GRASS   and ALIVE     18.23%			68.31		14.64		
+	14.05		DOWN  to GRASS   and ALIVE     14.90%			71.17		14.05		
+	20.13		DOWN  to GRASS   and ALIVE     11.57%			49.65		20.14		
+	25.77		DOWN  to GRASS   and ALIVE     8.23%			38.78		25.79		
+	23.38		DOWN  to GRASS   and ALIVE     4.90%			42.76		23.39		
+	22.19		DOWN  to GRASS   and ALIVE     1.57%			45.04		22.20		
+	22.67		DOWN  to DEATH   and LOST GAME -1.77%			43.51		22.98		EXHAUSTED! TIME TO DIE...
+
+DATE:	02/11/2017	TIME:	15:47:36
+Initialising game took 19.10 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	21.89		DOWN  to GRASS   and ALIVE     96.67%			45.67		21.90		READY TO SLITHER!? PRESS A KEY...
+	22.84		UP    to SLIME   and ALIVE     96.67%			43.42		23.03		THAT'S SLIME!
+	58.79		UP    to SLIME   and ALIVE     96.67%			16.95		59.01		THAT'S SLIME!
+	69.02		UP    to SLIME   and ALIVE     96.67%			14.44		69.24		THAT'S SLIME!
+	67.71		UP    to SLIME   and ALIVE     96.67%			14.72		67.93		THAT'S SLIME!
+	65.16		RIGHT to DEATH   and LOST GAME 93.33%			15.26		65.52		OH NO! A FROG!
+
+DATE:	02/11/2017	TIME:	15:47:37
+Initialising game took 20.53 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	31.47		LEFT  to GRASS   and ALIVE     96.67%			31.76		31.48		READY TO SLITHER!? PRESS A KEY...
+	34.43		DOWN  to GRASS   and ALIVE     93.33%			29.03		34.45		
+	37.62		LEFT  to WALL    and ALIVE     93.33%			26.50		37.74		THAT'S A WALL!
+	31.90		DOWN  to GRASS   and ALIVE     90.00%			31.33		31.92		
+	17.83		LEFT  to WALL    and ALIVE     90.00%			55.98		17.86		THAT'S A WALL!
+	25.30		DOWN  to GRASS   and ALIVE     86.67%			39.51		25.31		
+	21.41		LEFT  to WALL    and ALIVE     86.67%			46.64		21.44		THAT'S A WALL!
+	61.28		DOWN  to GRASS   and LOST GAME 83.33%			16.23		61.63		FROG GOT YOU!
+
+DATE:	02/11/2017	TIME:	15:47:39
+Initialising game took 33.07 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	33.58		LEFT  to GRASS   and ALIVE     96.67%			29.77		33.59		READY TO SLITHER!? PRESS A KEY...
+	32.42		RIGHT to SLIME   and ALIVE     96.67%			30.81		32.46		THAT'S SLIME!
+	21.14		DOWN  to WALL    and ALIVE     96.67%			46.88		21.33		THAT'S A WALL!
+	19.94		RIGHT to SLIME   and ALIVE     96.67%			50.09		19.96		THAT'S SLIME!
+	20.85		UP    to PELLET  and ALIVE     84.00%			47.90		20.88		PELLET ALERT!
+	79.34		UP    to GRASS   and ALIVE     80.67%			12.60		79.37		
+	31.86		UP    to GRASS   and ALIVE     77.33%			31.38		31.87		
+	19.04		DOWN  to SLIME   and ALIVE     77.33%			52.46		19.06		THAT'S SLIME!
+	14.36		LEFT  to GRASS   and ALIVE     74.00%			69.62		14.36		
+	14.97		RIGHT to SLIME   and ALIVE     74.00%			66.69		14.99		THAT'S SLIME!
+	33.76		UP    to GRASS   and ALIVE     70.67%			29.61		33.77		
+	33.90		DOWN  to SLIME   and ALIVE     70.67%			29.46		33.94		THAT'S SLIME!
+	35.21		LEFT  to GRASS   and ALIVE     67.33%			28.39		35.22		
+	37.92		RIGHT to SLIME   and ALIVE     67.33%			26.32		37.99		THAT'S SLIME!
+	25.51		UP    to GRASS   and LOST GAME 64.00%			39.13		25.55		FROG GOT YOU!
+
+DATE:	02/11/2017	TIME:	15:47:41
+Initialising game took 30.22 us
+
+Paint Game (ms)		Move made & Status			Health		Frame rate/s	Time/Frame (ms)	Screen messages
+-----------------------------------------------------------------------------------------------------------
+	19.72		UP    to GRASS   and FROG GONE 96.67%			50.65		19.74		EAGLE GOT A FROG
+	17.60		DOWN  to SLIME   and ALIVE     96.67%			56.74		17.62		THAT'S SLIME!
+	16.99		LEFT  to GRASS   and ALIVE     93.33%			58.84		16.99		
+	17.02		UP    to GRASS   and ALIVE     90.00%			58.75		17.02		
+	17.25		DOWN  to SLIME   and ALIVE     90.00%			57.92		17.27		THAT'S SLIME!
+	61.27		QUIT  to DEATH   and ALIVE     90.00%			57.92		17.27		WELL DONE, YOU WON!
+
+Student: Adrian Oram	DATE: 02/11/2017	TIME: 15:47:44
+SUMMARY for 27 games played, with 472 moves entered.
+
+Average frames/sec=	32.091
+Average Paint time=	31.198 ms
+Average Init time=	24.920 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 02/11/2017	TIME: 15:48:51
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	68.751
+Average Paint time=	14.536 ms
+Average Init time=	13.816 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 16:30:39
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	70.890
+Average Paint time=	14.098 ms
+Average Init time=	14.365 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 16:31:31
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	69.350
+Average Paint time=	14.412 ms
+Average Init time=	5.055 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 16:32:24
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	71.743
+Average Paint time=	13.933 ms
+Average Init time=	5.088 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 16:40:03
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	71.505
+Average Paint time=	13.979 ms
+Average Init time=	5.099 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 16:43:07
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	68.764
+Average Paint time=	14.533 ms
+Average Init time=	14.025 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 16:47:13
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	177.474
+Average Paint time=	5.624 ms
+Average Init time=	14.595 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 16:47:36
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	192.103
+Average Paint time=	5.199 ms
+Average Init time=	5.263 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 16:48:06
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	148784.651
+Average Paint time=	5.503 ms
+Average Init time=	4.945 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 16:50:21
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	151540.555
+Average Paint time=	5.193 ms
+Average Init time=	4.902 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 16:50:58
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	100242.250
+Average Paint time=	5.867 ms
+Average Init time=	13.334 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 17:00:31
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	140984.686
+Average Paint time=	2.353 ms
+Average Init time=	5.099 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 17:00:51
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	142299.001
+Average Paint time=	2.352 ms
+Average Init time=	4.967 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 17:01:38
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	155185.346
+Average Paint time=	2.197 ms
+Average Init time=	5.220 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 17:04:05
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	101679.759
+Average Paint time=	2.552 ms
+Average Init time=	13.784 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 17:10:32
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	544429.964
+Average Paint time=	1.804 ms
+Average Init time=	5.340 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 17:10:58
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	547412.894
+Average Paint time=	1.851 ms
+Average Init time=	5.274 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 17:11:20
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	247249.183
+Average Paint time=	1.985 ms
+Average Init time=	14.343 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 17:17:00
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	599140.080
+Average Paint time=	1.406 ms
+Average Init time=	5.099 us
+
+*************************************************************************************************************************
+
+Student: Nikos Kapalos	DATE: 16/11/2017	TIME: 17:18:18
+SUMMARY for 26 games played, with 940 moves entered.
+
+Average frames/sec=	271452.977
+Average Paint time=	1.565 ms
+Average Init time=	13.564 us
+
+*************************************************************************************************************************
